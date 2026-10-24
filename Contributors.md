@@ -7611,3 +7611,5 @@ add-pranav
 - [M-yhx](https://github.com/M-yhx)
 - [kiki111-code](https://github.com/kiki111-code)
 - [Altamash Ahmad](https://github.com/AltamashAhmad)
+
+- [Rishi-K-0714](https://github.com/Rishi-K-0714)
